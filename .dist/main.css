@@ -1,0 +1,32 @@
+.container{
+    background-color:black; 
+    margin: 0px;
+    padding:px;
+    display: flex;
+    border: 2px;
+    width: 650px;   
+    justify-content: center;
+    border:2px solid
+}
+.own{
+    display:grid;
+    justify-content: space-evenly;
+}
+.box{   
+height: 80px;
+background-color:white;   
+margin: 1px;
+width: 80px;
+display: flex;
+}
+.box1{   
+    height: 80px;
+    background-color:black;   
+    margin: 1px;
+    width: 80px;
+    display: flex;
+    }
+.bod{
+    display: flex;
+    
+}
