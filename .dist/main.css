@@ -5,6 +5,7 @@
     display: flex;
     border: 2px;
     width: 650px;   
+    
     justify-content: center;
     border:2px solid
 }
